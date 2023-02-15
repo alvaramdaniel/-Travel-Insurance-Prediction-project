@@ -46,7 +46,8 @@ What we have done on this stage:
 * Evaluation most impacful/influence to model output using shap library
 
 # Stage 4 - Final Presentation Material
-Based on our project's result, out best model is CatBoost with accuracy score 77% and precision score 77%. Our model performance could increase coupon acceptance rate and B/C ratio by 0.61x (from 1.7x to 2.31x).
+
+Based on our project's result, out best model is Decision Tree with accuracy score 85% and precision score 85%. Our model performance.
 
 # NOTE
 We presented the result of each stage progress in Bahasa
